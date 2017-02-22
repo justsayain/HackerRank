@@ -1,2 +1,6 @@
-.class
+# JAVA IGNORE
+*.class
+
+# Log file
+*.log
 
